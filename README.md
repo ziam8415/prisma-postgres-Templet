@@ -16,6 +16,7 @@ PostgreSQL
 
 ts-node-dev
 
+
 Zod (optional validation)
 
 ```md
@@ -126,6 +127,8 @@ Available Scripts
 
 4️⃣ Run Prisma Migration
 ```
+npm run prisma:generate-schema
+npm run prisma:generate
 npm run prisma:migrate
 ```
 
